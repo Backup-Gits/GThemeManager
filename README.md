@@ -1,1 +1,1 @@
-# RThemeManager
+# GThemeManager
